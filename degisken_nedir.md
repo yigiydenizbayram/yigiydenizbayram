@@ -1,4 +1,8 @@
-                                                               DEGİSKEN NEDİR
+                                                               
+#Liste (list): liste = [1, 2, 3]
+#Sözlük (dict): sozluk = {"anahtar": "değer"}
+#Değişkenler, programınızın mantığını ve veri akışını yönetmek için önemli bir rol oynar.
+DEGİSKEN NEDİR
 ####Python'da değişken, bir değeri saklamak için kullanılan bir isimdir. Değişkenler, programın çalışma sırasında verileri tutmak ve bu verilere kolayca erişmek için kullanılır. Python'da değişkenler tanımlanırken, ####herhangi bir özel tür belirtmeye gerek yoktur; Python dinamik bir dil olduğu için değişkenlerin türü otomatik olarak atanır.
 
 #Değişken Tanımlama
@@ -29,6 +33,3 @@ print(toplam)  # 15
 #Tam Sayılar (int): x = 5
 #ndalık Sayılar (float): y = 3.14
 #Metin (str): isim = "Ahmet"
-#Liste (list): liste = [1, 2, 3]
-#Sözlük (dict): sozluk = {"anahtar": "değer"}
-#Değişkenler, programınızın mantığını ve veri akışını yönetmek için önemli bir rol oynar.
