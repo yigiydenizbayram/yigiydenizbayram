@@ -1,3 +1,4 @@
+                                                               DEGİSKEN NEDİR
 Python'da değişken, bir değeri saklamak için kullanılan bir isimdir. Değişkenler, programın çalışma sırasında verileri tutmak ve bu verilere kolayca erişmek için kullanılır. Python'da değişkenler tanımlanırken, herhangi bir özel tür belirtmeye gerek yoktur; Python dinamik bir dil olduğu için değişkenlerin türü otomatik olarak atanır.
 
 Değişken Tanımlama
