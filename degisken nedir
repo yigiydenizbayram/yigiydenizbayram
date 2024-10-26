@@ -1,0 +1,40 @@
+Python'da değişken, bir veriyi depolamak için kullanılan bir isimdir. Değişkenler, programda farklı veri türlerini tutmak ve bu verilere erişmek için kullanılır. Python'da değişkenler, belirli bir tür belirtmeden tanımlanabilir ve programcı tarafından istendiği gibi değiştirilebilir.
+
+### Değişken Tanımlama
+
+Değişken tanımlamak için bir isim belirlenir ve ona bir değer atanır. Örneğin:
+
+```python
+x = 5
+isim = "Ahmet"
+pi = 3.14
+```
+
+### Değişken İsimlendirme Kuralları
+
+- Harf, rakam veya alt çizgi ile başlayabilir. 
+- İçinde sadece harfler, rakamlar ve alt çizgi bulunabilir.
+- Boşluk veya özel karakter içeremez.
+- Python'daki anahtar kelimeler kullanılmamalıdır.
+
+### Değişken Türleri
+
+Python'da bazı yaygın veri türleri şunlardır:
+
+- **int**: Tam sayılar (örneğin, `x = 10`)
+- **float**: Ondalık sayılar (örneğin, `pi = 3.14`)
+- **str**: Karakter dizileri (örneğin, `isim = "Ali"`)
+- **bool**: Mantıksal değerler (örneğin, `is_student = True`)
+
+### Değişkenin Kullanımı
+
+Değişkenler, programda farklı işlemler için kullanılabilir. Örneğin:
+
+```python
+a = 10
+b = 20
+toplam = a + b
+print(toplam)  # Çıktı: 30
+```
+
+Bu şekilde, değişkenler kodun daha düzenli ve okunabilir olmasını sağlar.
